@@ -7,7 +7,9 @@ The Covid tab will display the number of infected, the number of people cured, a
 The weather tab should display the weather in fahrenheit in regards to user input. 
 The news tab should display 3 recent news articles.
 
-Group members Christopher, Cristian, & Jonathan
+Group members Christopher J.C. Github:https://github.com/CCARREON16 Libnkedin:https://www.linkedin.com/in/christopher-carreon-88342087/
+, Cristian Github:https://github.com/Tanrez ,
+& Jonathan
 
 APIs planned on using- "Covid 19 Data", "Open weather map", "Bing News search"
 CSS Framework used is "Foundation"
