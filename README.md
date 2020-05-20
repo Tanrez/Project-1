@@ -9,5 +9,5 @@ The news tab should display 3 recent news articles.
 
 Group members Christopher, Cristian, & Jonathan
 
-APIs planned on using- "Covid 19 Data", "Open weather map", "USA News"
+APIs planned on using- "Covid 19 Data", "Open weather map", "Bing News search"
 CSS Framework used is "Foundation"
