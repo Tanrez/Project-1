@@ -1,15 +1,22 @@
 # Project-1
-
-A web browser with multiple API'S that have diffent functionalities like weather, news, Covid cases, etc.
+ Title : Beer Gala
+Beer Gala is a web browser inspired by the love of beer and alcohol. The UI has a search bar and multiple tabs refering to different API'S that have diffent functionalities like news,weather, events etc. 
+Our program will be used to search the web and also access information right at their fingertips.
 The API's should be responsive to user input.
-The application will have different dropdown tabs for weather, news, and Covid.
-The Covid tab will display the number of infected, the number of people cured, and the number of deaths caused by covid.
-The weather tab should display the weather in fahrenheit in regards to user input. 
+The Alcohol tab should display a survey that determines a drink the user would like.
+The weather tab should display the weather in degrees fahrenheit and icons in regards to user location input. 
 The news tab should display 3 recent news articles.
 
-Group members Christopher J.C. Github:https://github.com/CCARREON16 Libnkedin:https://www.linkedin.com/in/christopher-carreon-88342087/
-, Cristian Github:https://github.com/Tanrez ,
-& Jonathan
+Group members:
+Christopher J.C. Github:https://github.com/CCARREON16 Libnkedin:https://www.linkedin.com/in/christopher-carreon-88342087/
+Cristian Github:https://github.com/Tanrez ,
+Jonathan GitHub: https://github.com/CCARREON16
+ 
+ Technologies used:
+ 
+CSS Framework: "Foundation" https://get.foundation/
 
-APIs planned on using- "Covid 19 Data", "Open weather map", "Bing News search"
-CSS Framework used is "Foundation"
+ World News Api: 
+Alcohol Api https://rapidapi.com/brianiswu/api/open-brewery-db
+Current events Api: https://rapidapi.com/Robby_Assistant/api/events-2
+Weather Api: https://rapidapi.com/theapiguy/api/national-weather-service
