@@ -1,6 +1,7 @@
 # Project-1
  Title : Beer Gala
-Beer Gala is a web browser inspired by the love of beer and alcohol. The UI has a search bar and multiple tabs refering to different API'S that have diffent functionalities like news,weather, events etc. 
+Beer Gala is a web browser inspired by the love of beer and alcohol. This application was created to determine which days are ideal to go out drinking at a brewery. It also tells you upcoming events!
+The UI has a search bar and multiple tabs refering to different API'S that have diffent functionalities like news,weather, events etc. 
 Our program will be used to search the web and also access information right at their fingertips.
 The API's should be responsive to user input.
 The Alcohol tab should display a survey that determines a drink the user would like.
